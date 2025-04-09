@@ -77,6 +77,9 @@ I am a passionate Linux System Administrator and DevOps Engineer with a strong f
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![NFS](https://img.shields.io/badge/NFS-005F6A?style=for-the-badge&logo=server&logoColor=white)
+![RAID](https://img.shields.io/badge/RAID-8C8C8C?style=for-the-badge&logo=hdd&logoColor=white)
+![NAS](https://img.shields.io/badge/NAS-444444?style=for-the-badge&logo=databricks&logoColor=white)
 
 ---
 
