@@ -55,6 +55,7 @@ I am a passionate Linux System Administrator and DevOps Engineer with a strong f
 ![QEMU](https://img.shields.io/badge/QEMU-A91D22?style=for-the-badge&logo=qemu&logoColor=white)
 ---
 
+--- 
 ### 🧠 Monitoring & Security
 ![Zabbix](https://img.shields.io/badge/Zabbix-EF2D2D?style=for-the-badge&logo=zabbix&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-005C99?style=for-the-badge&logo=wazuh&logoColor=white)
