@@ -104,10 +104,11 @@ I am a passionate Linux System Administrator and DevOps Engineer with a strong f
 [![](https://visitcount.itsvg.in/api?id=MichalADA&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧠 Bonus – About Me
 
-🧠 Bonus – About Me  
-🛠️ I’m currently working on flight crash simulations and my own minimal Linux system in QEMU  
-🤝 I’m looking to collaborate on DevOps projects, security monitoring or custom Linux builds  
-🌱 I’m currently learning advanced Kubernetes, system-level scripting, and blockchain logic (Solana)  
-💬 Ask me about Linux internals, Docker networking, GitLab CI/CD or secure cloud deployments  
-⚡ Fun fact: I love debugging obscure Linux issues more than watching Netflix 🍿
+> 🛠️ I’m currently working on flight crash simulations and my own minimal Linux system in QEMU  
+> 🤝 I’m looking to collaborate on DevOps projects, security monitoring or custom Linux builds  
+> 🌱 I’m currently learning advanced Kubernetes, system-level scripting, and blockchain logic (Solana)  
+> 🌍 I speak Polish and English fluently. I’m also learning Spanish 🇪🇸 and Korean 🇰🇷  
+> 💬 Ask me about Linux internals, Docker networking, GitLab CI/CD or secure cloud deployments  
+> ⚡ Fun fact: I love debugging obscure Linux issues more than watching Netflix 🍿
