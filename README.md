@@ -17,12 +17,14 @@ I am a passionate Linux System Administrator and DevOps Engineer with a strong f
 ---
 
 ### ⚙️ DevOps & Automation
-![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 
 ---
 ### 💻 Programming Languages
@@ -96,6 +98,7 @@ I am a passionate Linux System Administrator and DevOps Engineer with a strong f
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FE652B?style=for-the-badge&logo=n8n&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSIyNCIgd2lkdGg9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTguNjEgM0g2LjEyQzQuODQgMyAzLjg4IDMuODcgMy44OCA1LjEyVjE4Ljg4QzMuODggMjAuMTMgNC44NCAyMSA2LjEyIDIxSDguNjFWM00xNy44OSAzaDIuNDljMS4yOCAwIDIuMjQgLjg3IDIuMjQgMi4xMlYxOC44OGMwIDEuMjUtLjk2IDIuMTItMi4yNCAyLjEySDE3Ljg5VjNaIi8+PC9zdmc+)
+![Hugo](https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MichalADA&icon=0&color=0)](https://visitcount.itsvg.in)
