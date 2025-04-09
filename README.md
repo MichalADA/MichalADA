@@ -108,7 +108,7 @@ I am a passionate Linux System Administrator and DevOps Engineer with a strong f
 > 🛠️ I'm currently working on flight crash simulations and my own minimal Linux system in QEMU  
 > 🤝 I'm looking to collaborate on DevOps projects, security monitoring or custom Linux builds  
 > 🌱 I'm currently learning advanced Kubernetes, system-level scripting, and blockchain logic (Solana)  
-> 🌍 I speak: Poland Polish (native), UK English (fluent)  
-> 🈷️ Currently learning: Spain Spanish, South Korea Korean  
+> 🌍 I speak: [PL] Polish (native), [EN] English (fluent)  
+> 🈷️ Currently learning: [ES] Spanish, [KR] Korean  
 > 💬 Ask me about Linux internals, Docker networking, GitLab CI/CD or secure cloud deployments  
 > ⚡ Fun fact: I love debugging obscure Linux issues more than watching Netflix 🍿
