@@ -79,8 +79,11 @@ I am a passionate Linux System Administrator and DevOps Engineer with a strong f
 ---
 
 ### 🧰 Frameworks & Tools
+### 🧰 Frameworks & Tools
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FE652B?style=for-the-badge&logo=n8n&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSIyNCIgd2lkdGg9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTguNjEgM0g2LjEyQzQuODQgMyAzLjg4IDMuODcgMy44OCA1LjEyVjE4Ljg4QzMuODggMjAuMTMgNC44NCAyMSA2LjEyIDIxSDguNjFWM00xNy44OSAzaDIuNDljMS4yOCAwIDIuMjQgLjg3IDIuMjQgMi4xMlYxOC44OGMwIDEuMjUtLjk2IDIuMTItMi4yNCAyLjEySDE3Ljg5VjNaIi8+PC9zdmc+)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MichalADA&icon=0&color=0)](https://visitcount.itsvg.in)
