@@ -94,6 +94,8 @@ I am a passionate Linux System Administrator and DevOps Engineer with a strong f
 ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
 ![Networking Basics](https://img.shields.io/badge/Networking%20Basics-0069AA?style=for-the-badge&logo=ethernet&logoColor=white)
 
+---
+
 ### 🔗 Blockchain & Web3
 ![Solana](https://img.shields.io/badge/Solana-3C3C3D?style=for-the-badge&logo=solana&logoColor=white)
 
