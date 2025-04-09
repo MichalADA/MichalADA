@@ -53,7 +53,7 @@ I am a passionate Linux System Administrator and DevOps Engineer with a strong f
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![QEMU](https://img.shields.io/badge/QEMU-A91D22?style=for-the-badge&logo=qemu&logoColor=white)
----
+
 
 --- 
 ### 🧠 Monitoring & Security
