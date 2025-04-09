@@ -13,10 +13,9 @@ I am a passionate Linux System Administrator and DevOps Engineer with a strong f
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-🧠 Bonus – About Me
-🛠️ I’m currently working on flight crash simulations and my own minimal Linux system in QEMU
-🤝 I’m looking to collaborate on DevOps projects, security monitoring or custom Linux builds
-🌱 I’m currently learning advanced Kubernetes, system-level scripting, and blockchain logic (Solana)
-💬 Ask me about Linux internals, Docker networking, GitLab CI/CD or secure cloud deployments
+🧠 Bonus – About Me  
+🛠️ I’m currently working on flight crash simulations and my own minimal Linux system in QEMU  
+🤝 I’m looking to collaborate on DevOps projects, security monitoring or custom Linux builds  
+🌱 I’m currently learning advanced Kubernetes, system-level scripting, and blockchain logic (Solana)  
+💬 Ask me about Linux internals, Docker networking, GitLab CI/CD or secure cloud deployments  
 ⚡ Fun fact: I love debugging obscure Linux issues more than watching Netflix 🍿
