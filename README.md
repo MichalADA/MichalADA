@@ -1,59 +1,26 @@
-<h1>Hi 👋, I'm Michał – Linux & DevOps Enthusiast</h1>
+# 💫 About Me:
+I am a passionate Linux System Administrator and DevOps Engineer with a strong focus on automation, system design, and infrastructure resilience. I specialize in managing CI/CD pipelines, Docker containers, and virtual environments like Proxmox and VMware. My toolbox includes cloud platforms such as AWS, GCP, Azure, and Linode.<br><br>I love digging into Linux systems from the ground up – init systems, file structure, custom kernels – that's my zone. I’m currently sharpening my skills in Kubernetes, infrastructure as code, and container orchestration, while working toward Google Cloud Professional and RHCSA certifications.<br><br>I also explore cybersecurity tooling with Wazuh and Zabbix, experiment with blockchain platforms (like Solana), and build flight crash simulations using Python. I'm comfortable with both Debian and RHEL families, and I also manage DNS systems, GitLab CI/CD pipelines, and application stacks like Apache Tomcat.
 
-<p>
-I am a passionate Linux System Administrator and DevOps Engineer with a strong focus on automation, system design, and infrastructure resilience. I specialize in managing CI/CD pipelines, Docker containers, and virtual environments like Proxmox and VMware. My toolbox includes cloud platforms such as AWS, GCP, Azure, and Linode.
-</p>
 
-<p>
-I love digging into Linux systems from the ground up – init systems, file structure, custom kernels – that's my zone. I’m currently sharpening my skills in Kubernetes, infrastructure as code, and container orchestration, while working toward Google Cloud Professional and RHCSA certifications.
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/michał-adamczyk-8422a123b) 
 
-<p>
-I also explore cybersecurity tooling with Wazuh and Zabbix, experiment with blockchain platforms (like Solana), and build flight crash simulations using Python. I'm comfortable with both Debian and RHEL families, and I also manage DNS systems, GitLab CI/CD pipelines, and application stacks like Apache Tomcat.
-</p>
-
-<h2>🚀 Languages and Tools I Use</h2>
-
-<p>
-<!-- Backend & DevOps -->
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python" /></a>
-<a href="https://kubernetes.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="42" height="42" alt="Kubernetes" /></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="42" height="42" alt="Docker" /></a>
-<a href="https://www.ansible.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/ansible.svg" width="42" height="42" alt="Ansible" /></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" height="42" alt="Git" /></a>
-<a href="https://about.gitlab.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="42" height="42" alt="GitLab" /></a>
-<a href="https://www.zabbix.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Zabbix_logo.svg" width="42" height="42" alt="Zabbix" /></a>
-<a href="https://wazuh.com/" target="_blank"><img src="https://wazuh.com/wp-content/uploads/2021/11/logo-wazuh.svg" width="42" height="42" alt="Wazuh" /></a>
-
-<!-- OS & Infra -->
-<a href="https://www.kernel.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42" alt="Linux" /></a>
-<a href="https://www.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" width="42" height="42" alt="Apache" /></a>
-<a href="https://tomcat.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" width="42" height="42" alt="Tomcat" /></a>
-<a href="https://solana.com/" target="_blank"><img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=024" width="42" height="42" alt="Solana" /></a>
-
-<!-- Databases & Monitoring -->
-<a href="https://grafana.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="42" height="42" alt="Grafana" /></a>
-<a href="https://www.elastic.co/kibana/" target="_blank"><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" width="42" height="42" alt="Kibana" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42" height="42" alt="MySQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="42" height="42" alt="MongoDB" /></a>
-
-</p>
-
-<h2>📫 Where to find me</h2>
-<p>
-<a href="https://www.linkedin.com/in/michał-adamczyk-8422a123b" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-</a>
-</p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MichalADA&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MichalADA&theme=gruvbox_light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MichalADA&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=MichalADA&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h2>🧠 Bonus – About Me</h2>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<ul>
-  <li>🛠️ I’m currently working on flight crash simulations and my own minimal Linux system in QEMU</li>
-  <li>🤝 I’m looking to collaborate on DevOps projects, security monitoring or custom Linux builds</li>
-  <li>🌱 I’m currently learning advanced Kubernetes, system-level scripting, and blockchain logic (Solana)</li>
-  <li>💬 Ask me about Linux internals, Docker networking, GitLab CI/CD or secure cloud deployments</li>
-  <li>⚡ Fun fact: I love debugging obscure Linux issues more than watching Netflix 🍿</li>
-</ul>
+
+🧠 Bonus – About Me
+🛠️ I’m currently working on flight crash simulations and my own minimal Linux system in QEMU
+🤝 I’m looking to collaborate on DevOps projects, security monitoring or custom Linux builds
+🌱 I’m currently learning advanced Kubernetes, system-level scripting, and blockchain logic (Solana)
+💬 Ask me about Linux internals, Docker networking, GitLab CI/CD or secure cloud deployments
+⚡ Fun fact: I love debugging obscure Linux issues more than watching Netflix 🍿
